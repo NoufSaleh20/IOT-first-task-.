@@ -21,4 +21,4 @@ here you can see a screenshot of  the used code:
  
  ![OP-](https://github.com/NoufSaleh20/IOT-first-task-./assets/129336340/022eaccf-a1a1-4254-9a73-b8de037df421)
  
- that`s  , thank you.
+ that`s it , thank you.
